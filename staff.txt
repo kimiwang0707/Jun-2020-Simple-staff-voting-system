@@ -1,0 +1,24 @@
+201201,Mike Long,0,1111a,null
+201202,Barbara Welcome,1,2222a,03-06-20 12:33:16
+201203,Amardeep Singh,1,3333a,03-06-20 11:52:52
+201204,Manoo Smith,0,4444a,null
+201205,Daee Jin,0,5555a,null
+201206,Zhuo Wang,0,6666a,null
+201207,Ann Sanderson,0,7777a,null
+201208,Kimberly Gibbs,0,8888a,null
+201209,Ayako Nakayama,0,9999a,null
+201210,Nikhil Singh,0,0000b,null
+201211,Steve Lane,1,1111b,02-06-20 09:01:43
+201212,Java King,0,2222b,null
+201213,Susan Sun,1,3333b,02-06-20 09:03:09
+201214,Cyrus Jin,1,4444b,04-06-20 04:15:46
+201215,Wing Wang,1,5555b,03-06-20 12:33:56
+201216,Lin Wingard,0,6666b,null
+201217,Peng Chang,0,peng123,null
+201218,Dar Chang,0,8888b,null
+201219,Dylan Jan,1,9999b,03-06-20 12:33:38
+201221,Lilian Ho,0,lilian22,null
+201222,Teddy Yee,1,2222c,02-06-20 09:02:15
+201224,Xiao Ming,1,xiao123,02-06-20 09:03:39
+201225,Gillian Chung,1,gillian123,02-06-20 09:02:50
+201228,Donald Trump,0,donald123,null
